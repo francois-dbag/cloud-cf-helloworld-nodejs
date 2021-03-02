@@ -4,3 +4,4 @@ general:
 steps:
   mtaBuild:
     buildTarget: 'CF'
+    verbose: true
