@@ -10,4 +10,4 @@ modules:
     parameters:
        version: ${timestamp}
     build-parameters: 
-      build-result: dist
+      build-result: .
