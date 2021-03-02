@@ -1,6 +1,6 @@
 general:
   collectTelemetryData: false
-  verbose:true
+  verbose: true
 steps:
   mtaBuild:
     buildTarget: 'CF'
